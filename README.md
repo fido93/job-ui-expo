@@ -1,1 +1,1 @@
-![alt text](assets\job-ui.jpg)
+![alt text](./assets/job-ui.jpg)
